@@ -21,7 +21,7 @@ streamlit.dataframe(fruits_to_show)
 
 
 
-select * from pc_rivery_db.public.fruit_load_list
+
 
 
 streamlit.header("Fruityvice Fruit Advice!")
